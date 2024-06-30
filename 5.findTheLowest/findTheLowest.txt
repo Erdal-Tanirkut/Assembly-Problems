@@ -1,0 +1,1 @@
+-Find the lowest number among a list of numbers(+13,-10,+19,+14,-18,-9,+12,-19,+16).

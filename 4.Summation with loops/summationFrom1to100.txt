@@ -1,0 +1,1 @@
+Algorithm for adding numbers from A=1 to B=100 is given below. Counter value(R0)  keeps adding up with Sum value into Sum register(R1) until Counter register is equal to B(100). At the end of the last iteration of COMPARE loop , Sum is equal to summation of numbers from 1 to 100 as hexadecimal (0x000013BA) 

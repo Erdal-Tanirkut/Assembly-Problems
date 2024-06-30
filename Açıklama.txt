@@ -1,0 +1,1 @@
+Microprocessors-1 dersim kapsamında ve kişisel merakım sonucu assembly programlama dilini öğrenmek ve pratik yapmak amaçlı çözdüğüm ve düzenli olarak eklemeler yaptığım sorulardır.
